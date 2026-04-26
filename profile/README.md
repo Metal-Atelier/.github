@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/BlackSilenceIcon.png"/>
+  <img src="../assets/BlackSilenceIcon.png"/>
   <h1>Robots, Software, Code and Workshop</h1>
   <h3> Metal Atelier </h3>
   <br>
